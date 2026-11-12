@@ -384,3 +384,13 @@
 ||z-fe.amazon-adsystem.com^
 ||z-in.amazon-adsystem.com^
 ||z-na.amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||aax-us-east.amazon-adsystem.com^
+||aax-eu.amazon-adsystem.com^
+||mads.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||s.amazon-adsystem.com^
+||fls-na.amazon.com^
+||fls-eu.amazon.com^
+||device-metrics-us.amazon.com^
+||device-metrics-eu.amazon.com^
